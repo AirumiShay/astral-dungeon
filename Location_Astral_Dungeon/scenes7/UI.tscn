@@ -1,0 +1,20 @@
+[gd_scene format=2]
+
+[node name="UI" type="Node2D"]
+
+[node name="Panel" type="Panel" parent="."]
+margin_right = 220.0
+margin_bottom = 35.0
+__meta__ = {
+"_edit_use_anchors_": false
+}
+
+[node name="CountMutants" type="Label" parent="Panel"]
+margin_left = 23.0
+margin_top = 11.0
+margin_right = 175.0
+margin_bottom = 27.0
+text = "Mutants: "
+__meta__ = {
+"_edit_use_anchors_": false
+}
