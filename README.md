@@ -6,9 +6,11 @@ You have been transported to the Astral World to gain unprecedented powers and d
 
 (c) Airumi & Shay 17.09.2023
 
-Astral Dungeon - one level - part of my global game "Worlds and Gods" from here: https://airumishaya.itch.io/worlds
+Astral Dungeon - one level - part of my global game "Worlds and Gods" from here: 
+https://github.com/AirumiShay/worlds
+https://airumishaya.itch.io/worlds
 
-Old version there:
+Old version game "Worlds and Gods" there:
 https://disk.yandex.com/d/7cinmU34cgXRQA
 
 Alfa-demo version 0.016
