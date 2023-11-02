@@ -1,6 +1,7 @@
 # astral-dungeon
 Astral Dungeon - 2D top-down shooter survival
-
+Play in browser:
+https://airumishaya.itch.io/astraldungeon
 
 You have been transported to the Astral World to gain unprecedented powers and defeat the Lord of Darkness
 
